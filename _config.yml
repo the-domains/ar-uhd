@@ -1,0 +1,14 @@
+name: AR UHD
+layout_spectrum: 0.4023234551679349
+typography_spectrum: 0.9951037550230182
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.6776245334100894
+  lightness: 0.793488663675257
+  saturation: 0.6729530354153158
+  rhythmicContrast: 0.7379971287119176
