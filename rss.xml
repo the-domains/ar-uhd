@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[AR UHD]]></title>
         <description><![CDATA[AR UHD]]></description>
-        <link>https://thegrid.ai/ar-uhd/</link>
+        <link>http://aruhd.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 23:57:09 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ar-uhd/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Aug 2016 23:41:15 GMT</lastBuildDate>
+        <atom:link href="http://aruhd.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HoloLens' 24-core chip makes vivid AR possible]]></title>
+            <description><![CDATA[<article><h1>HoloLens' 24-core chip makes vivid AR possible</h1><p>The 28-nanometer process "Tensilica" chip, built by TSMC, has 65 million logic gates, 8MB of ultra-fast static RAM (SRAM) and 1GB of DDR3 RAM, all crammed into a 12mm x 12mm (half-inch square) package. It's designed to process input from the inertial chip, environment cameras, depth camera and other sensors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a7994160237afef20aaac327389ec9/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3A33e3150dd83d5589e41cdbe3ece7df80afe56efb%2Fq%3A100%2F%3Furl%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F758b22644acc93019396fe04373c4ab2%252F204235692%252Fhololens-parts-2016-08-23-01.jpg"></article>]]></description>
+            <link>https://www.engadget.com/2016/08/23/hololens-24-core-chip-makes-vivid-ar-possible/</link>
+            <guid isPermaLink="false">94ad6577-f07a-45c9-8c84-5cfadb0225e4</guid>
+            <pubDate>Wed, 24 Aug 2016 23:41:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magic Leap demo in China shows augmented reality shopping]]></title>
             <description><![CDATA[<article><h1>Magic Leap demo in China shows augmented reality shopping</h1><p>The incredibly secretive augmented reality startup Magic Leap showed off another demonstration of its technology this week, this time using Chinese apps. During a discussion with Alibaba CMO Chris Tung in China, Magic Leap's chief marketing officer Brian Wallace gave audience members a look at how the technology works.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c9b04e05bb6a15a3d2459c701fb1aab0/noop.jpg?input=http%3A%2F%2Fi.amz.mshcdn.com%2FyPAic_3n5eOnFa-K1eD__FF3p1U%3D%2F1200x630%2F2016%252F07%252F25%252Fa9%252Fmgclep.39d1e.jpg"></article>]]></description>
